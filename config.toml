@@ -1,8 +1,8 @@
 title = "AI-generated News"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "https://iluharider.github.io"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
-resourceDir = "../resources"
+resourceDir = "public"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
