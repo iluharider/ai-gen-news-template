@@ -2,7 +2,7 @@ title = "AI-generated News"
 baseURL = "https://iluharider.github.io"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
-resourceDir = "public"
+resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
